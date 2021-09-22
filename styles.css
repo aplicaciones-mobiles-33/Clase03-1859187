@@ -1,0 +1,53 @@
+#posts{
+    margin-top: 20px;
+}
+
+#avatar{
+    width: 80px;
+    height: 80px;
+    margin-right: 10px;
+    border: 3px solid; border-radius: 50%;
+    border-color: blue;
+}
+
+
+
+#nametag{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+#nametag strong{
+    text-transform:capitalize;
+    font-size: large;
+}
+
+#data{
+    align-items: center;
+}
+
+#data strong{
+    margin-left: 17px;
+    margin-bottom: 0;
+    font-size: large;
+}
+
+#profile{
+    margin-top: 10px;
+}
+
+#edit{
+    background-color: white;
+    border-color: gray;
+    color: black;
+}
+
+#posts{
+    margin-left: -24px;
+    padding-right: 20px;
+}
+
+#posts img{
+    height: 145px;
+    width: 145px;
+}

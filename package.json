@@ -1,0 +1,22 @@
+{
+  "name": "clase03-1857298",
+  "version": "1.0.0",
+  "description": "Gabriel Alessandro Elizondo Cortez",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aplicaciones-mobiles-33/Clase03-1857298.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aplicaciones-mobiles-33/Clase03-1857298/issues"
+  },
+  "homepage": "https://github.com/aplicaciones-mobiles-33/Clase03-1857298#readme",
+  "dependencies": {
+    "http-server": "^13.0.1"
+  }
+}
